@@ -7,7 +7,7 @@
 
 ## :sassy_man:  About me
 - :school: I am a student of `Computer Science` and I'm doing a `Full Stack Development Bootcamp`, at the same time
-- :thinking: I’m currently open for: `Software Developer Intern` job  or a `Junior Software Developer` job, this is [MY Resume](https://1drv.ms/w/s!As4c2U00v8AHkGvwZck7B6szm_7N?e=o8UrsR).
+- :thinking: I’m currently open for: `Software Developer Intern` jobs  or  `Junior Software Developer` jobs, this is [MY Resume](https://1drv.ms/w/s!As4c2U00v8AHkGvwZck7B6szm_7N?e=o8UrsR).
 
 <br>
 
@@ -26,8 +26,8 @@
 
 <p align="center"> 
   &emsp; 
-  <a href="https://www.cprogramming.com/" target="_blank"> 
-    <img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?style=plastic&logo=c&logoColor=white">
+  <a href="" target="_blank"> 
+      <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">    
   </a> 
   &emsp;
   <a href="https://www.w3schools.com/cpp/" target="_blank"> 
