@@ -27,10 +27,6 @@
 <p align="center"> 
   &emsp; 
   <a href="" target="_blank"> 
-       <img height=60px width=60px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />       
-  </a> 
-  &emsp;
-  <a href="" target="_blank"> 
       <img height=50px width=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   </a> 
   &emsp;
@@ -56,9 +52,9 @@
   &emsp;	
 	
   ### 🧰 Tools	
-   <a href="" target="_blank">
-    
-  </a>
+  <a href="" target="_blank"> 
+       <img height=60px width=60px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />       
+  </a> 
   &emsp;
 	
   ### ⏩ Frameworks	
