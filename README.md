@@ -8,6 +8,7 @@
 ## :sassy_man:  About me
 - :school: I am a student of `Computer Science` and I'm doing a `Full Stack Development Bootcamp`, at the same time
 - :thinking: I’m currently open for: `Software Developer Intern` jobs  or  `Junior Software Developer` jobs, this is [MY Resume](https://1drv.ms/w/s!As4c2U00v8AHkGvwZck7B6szm_7N?e=o8UrsR).
+- 📧 How to reach me: rodrigues.matheussa@gmail.com
 
 <br>
 
@@ -105,7 +106,7 @@
 
 
 
-  <summary><b>💻 GitHub Profile Stats</b></summary>
+  <b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="contrastguy Github Stats" src="https://github-readme-stats.vercel.app/api?username=contrastguy" height="192px"/></a>
