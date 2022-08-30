@@ -52,10 +52,15 @@
   &emsp;	
 	
   ### 🧰 Tools	
-  <a href="" target="_blank"> 
-       <img height=60px width=60px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />       
-  </a> 
-  &emsp;
+  <p align="center">
+      <a href="" target="_blank"> 
+        <img height=60px width=60px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />       
+      </a> 
+      &emsp;	  
+  </p>			
+  
+	
+	
 	
   ### ⏩ Frameworks	
   <a href="" target="_blank">
