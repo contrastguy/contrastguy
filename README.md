@@ -56,7 +56,29 @@
       <a href="" target="_blank"> 
         <img height=60px width=60px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />       
       </a> 
+      &emsp;	
+      <a href="" target="_blank"> 
+        <img height=60px width=60px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />      
+      </a> 
+      &emsp;		  
+      <a href="" target="_blank"> 
+        <img height=60px width=60px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />      
+      </a> 
       &emsp;	  
+      <a href="" target="_blank"> 
+        <img height=60px width=60px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />      
+      </a> 
+      &emsp;	  
+      <a href="" target="_blank"> 
+       <img height=60px width=60px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />      
+      </a> 
+      &emsp;	  
+      <a href="" target="_blank"> 
+       <img height=60px widht=60px  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />    
+      </a> 
+      &emsp;	  
+	  
+	  
   </p>			
   
 	
