@@ -27,7 +27,7 @@
 <p align="center"> 
   &emsp; 
   <a href="" target="_blank"> 
-      <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">    
+       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />       
   </a> 
   &emsp;
   <a href="https://www.w3schools.com/cpp/" target="_blank"> 
