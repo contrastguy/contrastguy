@@ -49,7 +49,8 @@
    <a href="" target="_blank"> 
      <img height=50px width=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> 
   </a> 
-  &emsp;	
+  &emsp;
+  </p>	
 	
   ### 🧰 Tools	
   <p align="center">
@@ -84,12 +85,23 @@
 	
 	
 	
-  ### ⏩ Frameworks	
+  ### ⏩ Frameworks and Libraries
+  <p align="center">
   <a href="" target="_blank">
-    
+    <img height=60px width=60px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
   </a>
   &emsp;
-</p>
+  <a href="" target="_blank">
+    <img height=60px width=60px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+  </a>
+  &emsp;
+   <a href="" target="_blank">
+    <img height=60px width=60px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
+  </a>
+  &emsp;	
+	
+	
+  </p>
 
 
 
