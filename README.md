@@ -27,19 +27,19 @@
 <p align="center"> 
   &emsp; 
   <a href="" target="_blank"> 
-       <img height=60px width=60px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />       
+       <img height=50px width=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />       
   </a> 
   &emsp;
   <a href="" target="_blank"> 
-      <img height=60px width=60px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+      <img height=50px width=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   </a> 
   &emsp;
   <a href="" target="_blank">
-       <img height=60px width=60px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />    
+       <img height=50px width=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />    
    </a>
   &emsp;
   <a href="" target="_blank"> 
-    
+    <img height=50px width=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   </a>
   &emsp;
    <a href="" target="_blank">
