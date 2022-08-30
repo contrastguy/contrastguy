@@ -27,7 +27,7 @@
 <p align="center"> 
   &emsp; 
   <a href="" target="_blank"> 
-       <img height=50px width=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />       
+       <img height=60px width=60px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />       
   </a> 
   &emsp;
   <a href="" target="_blank"> 
