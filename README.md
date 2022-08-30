@@ -27,15 +27,15 @@
 <p align="center"> 
   &emsp; 
   <a href="" target="_blank"> 
-       <img height=30px width=30px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />       
+       <img height=60px width=60px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />       
   </a> 
   &emsp;
   <a href="" target="_blank"> 
-      <img height=30px width=30px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+      <img height=60px width=60px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   </a> 
   &emsp;
   <a href="" target="_blank">
-       <img height=30px width=30px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />    
+       <img height=60px width=60px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />    
    </a>
   &emsp;
   <a href="" target="_blank"> 
