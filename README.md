@@ -3,7 +3,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer&center=true&width=500&height=50"></a>
 </p>
 
-<br>
+
 
 ## :sassy_man:  About me
 - :school: I am a student of `Computer Science` and I'm doing a `Full Stack Development Bootcamp`, at the same time
@@ -108,12 +108,9 @@
 
   <b>💻 GitHub Profile Stats</b></summary>
   <br/>
-  <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="contrastguy Github Stats" src="https://github-readme-stats.vercel.app/api?username=contrastguy" height="192px"/></a>
-<br/>
+ 	 <p align="center">
+   		 <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="contrastguy Github Stats" src="https://github-readme-stats.vercel.app/api?username=contrastguy" height="192px"/></a>
   &nbsp;
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=contrastguy&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="contrastguy" height="192px"/>
-  <br/>
-  </p>
-
+  	</p>
 ----
