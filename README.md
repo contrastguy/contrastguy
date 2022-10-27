@@ -6,8 +6,8 @@
 
 
 ## :sassy_man:  About me
-- :school: I am a student of `Computer Science` and I'm doing a `Full Stack Development Bootcamp`, at the same time
-- :thinking: I’m currently open for: `Software Developer Intern` jobs  or  `Junior Software Developer` jobs, this is [MY Resume](https://1drv.ms/w/s!As4c2U00v8AHkGvwZck7B6szm_7N?e=o8UrsR).
+- :school: I am a student of `Computer Science` and I specialized myself on a `Full Stack Development` Bootcamp made by [@Tera](https://www.linkedin.com/school/somostera/)
+- :thinking: I’m currently open for: `Software Developer Intern` jobs  or  `Junior Software Developer` jobs, this is my [CV 📄](https://1drv.ms/w/s!As4c2U00v8AHkRUTL1j_AKS1fbp2?e=QyuaGr)
 - 📧 How to reach me: rodrigues.matheussa@gmail.com
 
 <br>
