@@ -7,7 +7,8 @@
 
 ## :sassy_man:  About me
 - :school: I am a student of `Computer Science` and I specialized myself on a `Full Stack Development` Bootcamp made by [@Tera](https://www.linkedin.com/school/somostera/)
-- :thinking: I’m currently open for: `Software Developer Intern` jobs  or  `Junior Software Developer` jobs, this is my [CV 📄](https://1drv.ms/w/s!As4c2U00v8AHkRUTL1j_AKS1fbp2?e=QyuaGr)
+- ⏱ 2 years of experience with Software Development
+- :thinking: I’m currently open for: `Full Stack Developer` jobs  or  `Back/Front End Developer` jobs, this is my [CV 📄](https://1drv.ms/w/s!As4c2U00v8AHkRUTL1j_AKS1fbp2?e=QyuaGr)
 - 📧 How to reach me: rodrigues.matheussa@gmail.com
 
 <br>
@@ -19,11 +20,7 @@
 <br>
 
 
-
-
-## 🛠️ My Skills
-
-### 👉 Programming skills
+### 👉 Skills
 
 <p align="center"> 
   &emsp; 
@@ -52,7 +49,7 @@
   </a> 
   &emsp;
   </p>	
-	
+  
   ### 🧰 Tools	
   <p align="center">
       <a href="" target="_blank"> 
@@ -82,34 +79,10 @@
 	  
 	  
   </p>			
-  
-	
-	
-	
-  ### ⏩ Frameworks and Libraries
-  <p align="center">
-  <a href="" target="_blank">
-    <img height=60px width=60px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
-  </a>
-  &emsp;
-  <a href="" target="_blank">
-    <img height=60px width=60px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-  </a>
-  &emsp;
-   <a href="" target="_blank">
-    <img height=60px width=60px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
-  </a>
-  &emsp;	
-	
-	
-  </p>
-
-
-
-  <b>💻 GitHub Profile Stats</b></summary>
+ 
   <br/>
  	 <p align="center">
    		 <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="contrastguy Github Stats" src="https://github-readme-stats.vercel.app/api?username=contrastguy&theme=tokyonight" height="192px"/></a>
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=contrastguy&langs_count=10&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="contrastguy" height="192px"/>
   	</p>
-----
+
