@@ -7,8 +7,8 @@
 
 ## :sassy_man:  About me
 - :school: I am a student of `Computer Science` and I specialized myself on a `Full Stack Development` Bootcamp made by [@Tera](https://www.linkedin.com/school/somostera/)
-- ⏱ 2 years of experience with Software Development
-- :thinking: I’m currently open for: `Full Stack Developer` jobs  or  `Back/Front End Developer` jobs, this is my [CV 📄](https://1drv.ms/w/s!As4c2U00v8AHkRUTL1j_AKS1fbp2?e=QyuaGr)
+- ⏱ 3 years of experience with Software Development
+- :thinking: I’m currently open for: `Full Stack Developer` jobs  or  `Back/Front End Developer` jobs, this is my [CV 📄](https://1drv.ms/w/s!As4c2U00v8AHlGZdVKQ-ByUV3mqx?e=UxL1FI)
 - 📧 How to reach me: rodrigues.matheussa@gmail.com
 
 <br>
@@ -46,6 +46,10 @@
   &emsp;
    <a href="" target="_blank"> 
      <img height=50px width=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> 
+  </a> 
+  &emsp;
+    <a href="" target="_blank"> 
+     <img height=60px width=60px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" /> 
   </a> 
   &emsp;
   </p>	
