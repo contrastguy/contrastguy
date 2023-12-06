@@ -1,14 +1,14 @@
 <h1 align="center">Hi , I'm Matheus Rodrigues <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=DevOps+Engineer&center=true&width=500&height=50"></a>
 </p>
 
 
 
 ## :sassy_man:  About me
-- :school: I am a student of `Computer Science` and I specialized myself on a `Full Stack Development` Bootcamp made by [@Tera](https://www.linkedin.com/school/somostera/)
-- ⏱ 3 years of experience with Software Development
-- :thinking: I’m currently open for: `Full Stack Developer` jobs  or  `Back/Front End Developer` jobs, this is my [CV 📄](https://1drv.ms/w/s!As4c2U00v8AHlGZdVKQ-ByUV3mqx?e=UxL1FI)
+- 👨‍💻 I'm currently working as a `DevOps Engineer`  at the `Rio de Janeiro Government`
+- ⁉️  I `specialized` myself in `Full Stack Development` on a Bootcamp
+- ⏱ 3 years of professional experience
 - 📧 How to reach me: rodrigues.matheussa@gmail.com
 
 <br>
