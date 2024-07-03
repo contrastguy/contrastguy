@@ -8,7 +8,7 @@
 ## :sassy_man:  About me
 - 👨‍💻 I'm currently working as a `DevOps Engineer`  at the `Rio de Janeiro Government`
 - ⁉️  I `specialized` myself in `Full Stack Development` on a Bootcamp
-- ⏱ 3 years of professional experience
+- ⏱ 4 years of professional experience
 - 📧 How to reach me: rodrigues.matheussa@gmail.com
 
 <br>
