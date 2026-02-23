@@ -1,4 +1,4 @@
-<h1 align="center"> Hello, My name is Matheus <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"> Hi, I'm Matheus <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=DevOps+Engineer&center=true&width=500&height=50"></a>
 </p>
@@ -7,7 +7,7 @@
 
 ## :sassy_man:  About me
 - 👨‍💻 I'm currently working as a `DevOps Engineer`  at the `Rio de Janeiro Government`
-- ⁉️  I `specialized` myself in `Full Stack Development` on a Bootcamp in 2021
+- ⁉️  I `specialized` myself in `Full Stack Development` on a Bootcamp in 2022
 - ⏱ 3 years of professional experience
 - 📧 How to reach me: rodrigues.matheussa@gmail.com
 
